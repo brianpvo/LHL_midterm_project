@@ -91,6 +91,7 @@
 				7AE64C41209A419700288B91 /* CafeModel.swift */,
 				7AE64C49209A611600288B91 /* MatchUsers.swift */,
 				7AE64C4B209A829200288B91 /* LocateCafe.swift */,
+				3897AF5F209FC3BB00AF2F68 /* ProfileCell.swift */,
 			);
 			path = M;
 			sourceTree = "<group>";
@@ -99,10 +100,9 @@
 			isa = PBXGroup;
 			children = (
 				7AE64C3D209A3F0000288B91 /* MainViewController.swift */,
-				3897AF5D209FC34100AF2F68 /* ProfileTableView.swift */,
-				3897AF5F209FC3BB00AF2F68 /* ProfileCell.swift */,
 				38467D31209D604400F17EBE /* TimerViewController.swift */,
 				7AD75F8A209EB1C5007B41B4 /* ReviewViewController.swift */,
+				3897AF5D209FC34100AF2F68 /* ProfileTableView.swift */,
 				7AE64C4F209AB9CD00288B91 /* ViewLayoutConstraint.h */,
 				7AE64C50209AB9CD00288B91 /* ViewLayoutConstraint.m */,
 			);
